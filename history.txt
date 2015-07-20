@@ -1,0 +1,500 @@
+   35  CD /
+   36  which pip
+   37  cd /
+   38  which pip
+   39  man which
+   40  which -s pip
+   41  which python
+   42  cd /usr/bin
+   43  ls -a
+   44  cd ~
+   45  nano .bash_profile
+   46  source ~/.bash_profile
+   47  ls -a
+   48  nano .profile 
+   49  nano .bash_profile.pysave 
+   50  nano .bash_profile.backup 
+   51  which pip
+   52  find pip
+   53  find pip*
+   54  echo $PATH
+   55  pip install Django==1.8.2
+   56  /usr/local/bin/pip
+   57  cd /usr/local/bin/
+   58  ls -a
+   59  which -a pip
+   60  cd /
+   61  find / -name pip 2>/dev/null
+   62  sudo pip uninstall pip
+   63  cd ~
+   64  sudo easy_install pip
+   65  /usr/local/bin/pip 
+   66  which pip3
+   67  which pip2
+   68  which python
+   69  pip3 install Django==1.8.2
+   70  which Django
+   71  python
+   72  sudo pip3 install virtualenv
+   73  type pip
+   74  type pip2
+   75  type pip3
+   76  ls
+   77  cd Documents/
+   78  ls 
+   79  cd Software/
+   80  pwd
+   81  virtualenv kindy
+   82  where virtualenv
+   83  whereis virtualenv
+   84  type virtualenv
+   85  type virtualenv13
+   86  type virtualenv-13.0.3
+   87  cd ~
+   88  virtualenv virtualtest
+   89  virtualenv
+   90  LS -A
+   91  nano .bash_profile
+   92  cd Documents/
+   93  ls
+   94  cd~
+   95  cd ~
+   96  ls
+   97  cd GoogleAppEngineTest/
+   98  ls
+   99  cd ud858/
+  100  ls
+  101  cd ConferenceCentral_Complete/
+  102  ls
+  103  nano index.yaml 
+  104  cd ../
+  105  cd Lesson_2
+  106  ls
+  107  cd 000_Hello_Endpoints/
+  108  ls
+  109  nano helloworld_api.py 
+  110  nano app.yaml 
+  111  python --version
+  112  cd ~
+  113  type -a python
+  114  ls -l /usr/local/bin/python
+  115  which python
+  116  python -c "import django; print(django.get_version())"
+  117  import sys
+  118  print sys.path
+  119  echo $PYTHONPATH
+  120  nano .bash_profile
+  121  type python
+  122  type python3.4
+  123  where python
+  124  cd /
+  125  ls
+  126  cd Library/
+  127  cd Frameworks/
+  128  ls
+  129  cd Python.framework/
+  130  ls
+  131  cd Versions/
+  132  ls
+  133  type python
+  134  source ~/.bash_profile
+  135  python -V
+  136  python --version
+  137  exit
+  138  python -V
+  139  ls
+  140  ls -a
+  141  nano .bash_profile.pysa
+  142  nano .bash_profile.pysave 
+  143  nano .bash_profile
+  144  nano .bash_profile
+  145  source ~/.bash_profile
+  146  exit
+  147  python -V
+  148  nano .bash_profile
+  149  python -c "import django; print(django.get_version())"
+  150  nano .bash_profile
+  151  source ~/.bash_profile
+  152  exit
+  153  python -V
+  154  python -c "import django; print(django.get_version())"
+  155  django-admin startproject mysite
+  156  virtualenv testDjango
+  157  virtualenv
+  158  virtualenv testDjango
+  159  virtualenv
+  160  nano .bash_profile
+  161  source ~/.bash_profile
+  162  exit
+  163  python --version
+  164  open -a Brackets
+  165  nano .bash_profile
+  166  exit
+  167  which python
+  168  nano .bash_profile
+  169  source ~/.bash_profile
+  170  exit
+  171  type python
+  172  type python3
+  173  type python2
+  174  type python
+  175  cd /
+  176  ls -a
+  177  cd /usr
+  178  ls
+  179  cd local/
+  180  ls -a
+  181  cd bin/
+  182  ls
+  183  pwd
+  184  exit
+  185  nano .bash_profile
+  186  exit
+  187  type python
+  188  which python
+  189  python -V
+  190  type python
+  191  cd /usr/bin/python
+  192  cd /usr/bin/
+  193  ls -a
+  194  cd /usr/local/bin/
+  195  ls -a
+  196  django -V
+  197  type django
+  198  cd ~
+  199  exit
+  200  nano .bash_profile
+  201  exit
+  202  python -c "import django; print(django.get_version())"
+  203  ls -a
+  204  rm mysite/
+  205  rmdir mysite
+  206  cd mysite/
+  207  ls
+  208  rm -r mysite
+  209  cd ..
+  210  rmdir -r mysite/
+  211  ls -a
+  212  cd mysite/
+  213  ls -a
+  214  rm manage.py 
+  215  rm .
+  216  cd ..
+  217  rmdir mysite/
+  218  ls -a
+  219  cd Docu
+  220  cd Documents/
+  221  ls -a
+  222  cd Software/
+  223  ls -a
+  224  cd Python/
+  225  django-admin startproject mysite
+  226  python -c "import django; print(django.get_version())"
+  227  django-admin startproject mysite
+  228  type django
+  229  find django
+  230  find django-admin
+  231  cd /usr
+  232  pwd
+  233  ls -a
+  234  cd local/bin/
+  235  ls -a
+  236  cd /usr/bin
+  237  ls -a
+  238  find site-packages
+  239  django-admin -V
+  240  django-admin version
+  241  cd /
+  242  ls -a
+  243  find site-packages
+  244  type django
+  245  python -c "import django; print(django.get_version())"
+  246  cd usr/local/lib/
+  247  ls -a
+  248  cd ..
+  249  ls -a
+  250  cd Library/
+  251  ls
+  252  cd ENV/
+  253  ls 
+  254  cd ..
+  255  cd ..
+  256  cd ..
+  257  ls 
+  258  cd lib
+  259  ls
+  260  cd ..
+  261  ls
+  262  cd bin/
+  263  ls
+  264  gold = 137.74 * 51
+  265   137.74 * 51
+  266  python
+  267  which django-admin.py
+  268  python3
+  269  python
+  270  brew update
+  271  brew doctor
+  272  brew prune
+  273  brew doctor
+  274  brew update
+  275  pip install --upgrade setuptools
+  276  brew install python
+  277  type python
+  278  type django
+  279  type pip
+  280  which python
+  281  which python3
+  282  which python
+  283  type irc
+  284  whereis irc
+  285  find irc
+  286  cd /
+  287  cd ..
+  288  ls -a
+  289  pwd
+  290  ls -a
+  291  cd bin/
+  292  pwd
+  293  cd ~
+  294  install tree
+  295  brew install tree
+  296  cd /
+  297  tree
+  298  cd /
+  299  tree > myOSXtree.txt
+  300  tree >> myTree
+  301  sudo tree >> myTree.txt
+  302  cd ~
+  303  pwd
+  304  nano myTree.txt
+  305  nano myTree.txt
+  306  sudo tree >> /Users/asmawatiaris/myTree.txt 
+  307  cd /
+  308  sudo tree > /Users/asmawatiaris/myOS-tree 
+  309  cd /
+  310  cd ~
+  311  ls -a
+  312  nano myOS-tree
+  313  man tree
+  314  cd /
+  315  tree -d -L 5  > /Users/asmawatiaris/myOS-tree
+  316  cd ~
+  317  nano myOS-tree 
+  318  pip freeze
+  319  man pip
+  320  man grep
+  321  open -a Atom
+  322  nano .bash_profile
+  323  man open
+  324  python
+  325  python -c "import sys; sys.path = sys.path[1:]; import django; print(django.__path__)"
+  326  type pip
+  327  type easy_install
+  328  which virtualenv
+  329  type virtualenv
+  330  sudo pip virtualenv
+  331  sudo pip install virtualenv
+  332  pip install --upgrade pip
+  333  type virtualenv
+  334  type python
+  335  cd Documents/Software/Python/
+  336  virtualenv newEnv
+  337  cd newEnv/
+  338  ls
+  339  source bin/activate
+  340  pip freeze
+  341  pip install django
+  342  pip install django
+  343  which django-admin.py
+  344  django-admin.py startproject myproject
+  345  ls -a
+  346  git init
+  347  git add .
+  348  git commit -a -m 'Initial of commit of myproject'
+  349  type django
+  350  type django-admin.py
+  351  ls -a
+  352  cd myproject/
+  353  ls -a
+  354  cd myproject/
+  355  ls -a
+  356  nano settings.py 
+  357  python manage.py migrate
+  358  cd ..
+  359  ls
+  360  python manage.py migrate
+  361  cd ..
+  362  ls 
+  363  cd myproject/
+  364  python manage.py runserver
+  365  ls
+  366  python manage.py startapp home
+  367  ls
+  368  tree home
+  369  find templates
+  370  cd home/
+  371  atom models.py 
+  372  atom -e models.py 
+  373  atom admin.py 
+  374  cd ..
+  375  ls
+  376  tree .
+  377  cd myproject/
+  378  atom settings.py
+  379  ls
+  380  cd ..
+  381  ls
+  382  python manage.py makemigrations home
+  383  python manage.py runserver
+  384  ls
+  385  cd ..
+  386  tree .
+  387  clear
+  388  ls
+  389  cd myproject/
+  390  ls
+  391  python manage.py runserver
+  392  python manage.py makemigrations
+  393  python manage.py runserver
+  394  python manage.py makemigrations
+  395  python manage.py runserver
+  396  python manage.py makemigrations
+  397  python manage.py runserver
+  398  python manage.py makemigrations
+  399  python manage.py runserver
+  400  python manage.py runserver
+  401  python manage.py runserver
+  402  python manage.py makemigrations
+  403  python manage.py runserver
+  404  python manage.py makemigrations
+  405  python manage.py runserver
+  406  python manage.py collectstatic
+  407  python manage.py collectstatic
+  408  python manage.py collectstatic
+  409  python manage.py makemigrations
+  410  python manage.py runserver
+  411  tree .
+  412  python manage.py collectstatic
+  413  python manage.py runserver
+  414  ls -a
+  415  cd myproject/
+  416  ls -a
+  417  tree .
+  418  exit
+  419  python
+  420  ls
+  421  brew virtualenvwrapper
+  422  brew install virtualenvwrapper
+  423  find virtualenv
+  424  ls -a
+  425  virtualenvwrapper
+  426  pip install virtualenvwrapper
+  427  exit
+  428  ls 
+  429  cd Docu
+  430  cd Documents/
+  431  ls -a
+  432  cd Software/
+  433  ls
+  434  cd Python/
+  435  git clone https://github.com/ryansb/wut4lunch_demos.git
+  436  ls 
+  437  cd wut4lunch_demos/
+  438  ls -a
+  439  hello_django/
+  440  cd hello_django/
+  441  ls
+  442  python manage.py runserver
+  443  python manage.py migrate
+  444  python manage.py migrate
+  445  python manage.py runserver
+  446  tree .
+  447  exit
+  448  exit
+  449  ls -a
+  450  rmdir -rf coursys/
+  451  rmdir -R coursys/
+  452  man rmdir
+  453  cd Documents/Software/Python/
+  454  ls -a
+  455  rmdir coursys/
+  456  man rmdir
+  457  rmdir -p coursys/
+  458  man rmdir
+  459  man rm
+  460  rm -R coursys/
+  461  rm -R -F coursys/
+  462  man rm
+  463  rm -rf coursys/
+  464  ls -a
+  465  git clone https://github.com/NikolayBorovenskiy/How-to-Tango-with-Django.git
+  466  git clone https://github.com/sfu-fas/coursys.git
+  467  git clone https://github.com/rosarior/awesome-django.git
+  468  git clone https://github.com/bodgerbarnett/django-teamgroups.git
+  469  python --version
+  470  python3 -V
+  471  cd Documents/Software/Python/
+  472  ls
+  473  python3 -m venv djangogirlsenv
+  474  ls
+  475  cd djangogirlsenv/
+  476  ls
+  477  cd ..
+  478  . djangogirlsenv/bin/activate
+  479  pip install django==1.8
+  480  ls
+  481  cd Documents/Software/Python/
+  482  ls
+  483  cd djangogirlsenv/
+  484  ls
+  485  cd Documents/Software/Python/
+  486  ls
+  487  cd djangogirlsenv/
+  488  djangogirlsenv/bin/activate
+  489  cd ..
+  490  djangogirlsenv/bin/activate
+  491  sudo djangogirlsenv/bin/activate
+  492  cd djangogirlsenv/
+  493  . djangogirlsenv/bin/activate
+  494  source  djangogirlsenv/bin/activate
+  495  cd ..
+  496  source djangogirlsenv/bin/activate
+  497  ls
+  498  cd django
+  499  cd djangogirlsenv/
+  500  cd Documents/Software/Python/
+  501  cd djangogirlsenv/
+  502  source djangogirlsenv/bin/activate
+  503  . djangogirlsenv/bin/activate
+  504  ls
+  505  cd ..
+  506  del djangogirls
+  507  del djangogirlsenv/
+  508  rm -r djangogirlsenv/
+  509  ls
+  510  python3 -m venv myvenv
+  511  ls
+  512  cd myvenv/
+  513  source myvenv/bin/activate
+  514  .  myvenv/bin/activate
+  515  ls -a
+  516  cd bin/
+  517  ls
+  518  . activate
+  519  cd ..
+  520  cd ..
+  521  cd myvenv/
+  522  pip install django==1.8
+  523  django-admin startproject mysite .
+  524  tree .
+  525  clear
+  526  ls
+  527  cd mysite/
+  528  ls
+  529  atom settings.py 
+  530  python manage.py migrate
+  531  cd ..
+  532  python manage.py migrate
+  533  python manage.py runserver
+  534  history > history.txt
